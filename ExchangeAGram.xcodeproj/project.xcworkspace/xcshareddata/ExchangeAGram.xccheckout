@@ -12,20 +12,24 @@
 	<dict>
 		<key>1A8D10655905962D4240802F14EC8A3D89E21B7F</key>
 		<string>https://github.com/ulyssaelaine/AgeOfLaika.git</string>
+		<key>5FA74C0D99C616A5249E0A01EBBDD2E276968280</key>
+		<string>https://github.com/ulyssaelaine/ExchangeAGram.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ExchangeAGram/ExchangeAGram.xcodeproj</string>
+	<string>ExchangeAGram.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>1A8D10655905962D4240802F14EC8A3D89E21B7F</key>
 		<string>../../..</string>
+		<key>5FA74C0D99C616A5249E0A01EBBDD2E276968280</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ulyssaelaine/AgeOfLaika.git</string>
+	<string>https://github.com/ulyssaelaine/ExchangeAGram.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>1A8D10655905962D4240802F14EC8A3D89E21B7F</string>
+	<string>5FA74C0D99C616A5249E0A01EBBDD2E276968280</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>1A8D10655905962D4240802F14EC8A3D89E21B7F</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Swift%20Training</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5FA74C0D99C616A5249E0A01EBBDD2E276968280</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ExchangeAGram</string>
 		</dict>
 	</array>
 </dict>

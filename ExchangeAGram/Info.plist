@@ -36,6 +36,21 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>FacebookAppID</key>
+	<string>110966238937003</string>
+	<key>FacebookDisplayName</key>
+	<string>Ulyssa Elaine Reyes</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb110966238937003</string>
+			</array>
+		</dict>
+	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
